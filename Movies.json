@@ -42,7 +42,8 @@
     "imdbVotes": "533,874",
     "imdbID": "tt0480249",
     "Type": "movie",
-    "Response": "True"
+    "Response": "True",
+    "Image":"https://raw.githubusercontent.com/MariaPaulo/prototype/main/iamlegend.jpeg"
   },
   {
     "Title": "300",
@@ -268,7 +269,8 @@
     "imdbID": "tt0903747",
     "Type": "series",
     "totalSeasons": "5",
-    "Response": "True"
+    "Response": "True",
+    "Image":"https://raw.githubusercontent.com/MariaPaulo/prototype/main/breakingbad.jpg"
   },
   {
     "ComingSoon": true,
