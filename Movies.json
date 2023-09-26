@@ -66,7 +66,7 @@
     "imdbID": "tt0416449",
     "Type": "movie",
     "Response": "True",
-    "Image":"https://raw.githubusercontent.com/jamesmontemagno/app-monkeys/master/baboon.jpg"
+    "Image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToU0hue3KPtP3Jr67u7WK3mHeiyzI6i7m8JErheICi&s.jpg"
   },
   {
     "Title": "The Avengers",
@@ -89,7 +89,7 @@
     "imdbID": "tt0848228",
     "Type": "movie",
     "Response": "True",
-    "Image":"https://raw.githubusercontent.com/jamesmontemagno/app-monkeys/master/baboon.jpg"
+    "Image":"https://upload.wikimedia.org/wikipedia/en/c/c0/Avengers_2020_cover_art.png"
   },
   {
     "Title": "The Wolf of Wall Street",
@@ -112,7 +112,7 @@
     "imdbID": "tt0993846",
     "Type": "movie",
     "Response": "True",
-    "Image":"https://raw.githubusercontent.com/jamesmontemagno/app-monkeys/master/baboon.jpg"
+    "Image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6iw67Nd7947k7_OIl1P98IPTx0yvqk72gTg&usqp=CAU.png"
   },
   {
     "Title": "Interstellar",
