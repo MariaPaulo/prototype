@@ -20,7 +20,7 @@
     "imdbID": "tt0499549",
     "Type": "movie",
     "Response": "True",
-    "Image":"https://raw.githubusercontent.com/MariaPaulo/prototype/main/avatar.jpg"
+    "Image":"https://raw.githubusercontent.com/jamesmontemagno/app-monkeys/master/baboon.jpg""
   },
   {
     "Title": "I Am Legend",
@@ -270,7 +270,7 @@
     "Type": "series",
     "totalSeasons": "5",
     "Response": "True",
-    "Image":"https://raw.githubusercontent.com/MariaPaulo/prototype/main/breakingbad.jpg"
+    "Image":"https://raw.githubusercontent.com/jamesmontemagno/app-monkeys/master/capuchin.jpg"
   },
   {
     "ComingSoon": true,
